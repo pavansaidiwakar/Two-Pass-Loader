@@ -28,4 +28,4 @@ beginning address in memory where the linked program is to be loaded. CSADDR con
 starting address assigned to the control section currently being scanned by the loader.
 First pass is concerned with assigning addresses to all external symbols present in the
 instructions and Second Pass is actually responsible for the actual loading, along with the tasks
-involved in relocating and linking the different object codes
+involved in relocating and linking the different object codes.
